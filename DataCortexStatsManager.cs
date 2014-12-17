@@ -10,7 +10,7 @@ using JsonFx.Json;
 
 	Unity Implementation of the data cortex API 
 
-	Example usage at <git link here>
+	Example usage at https://github.com/juiceboxgames/DataCortexUnitySDK
 
 	The MIT License (MIT)
 
@@ -69,7 +69,7 @@ public class DataCortexStatsManager {
 	// The max number of times to retry a particular batch before giving up
 	public int MaxPostAttempts = 5;
 
-	// True iff we are currently posting a batch to data cortext
+	// True iff we are currently posting a batch to data cortex
 	private bool IsPosting = false;
 
 	// The device model - this is cached in a member variable since it needs to be queried in another thread

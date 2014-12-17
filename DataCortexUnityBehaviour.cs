@@ -6,7 +6,7 @@ using System.Collections;
 
 	Unity Implementation of the data cortex API 
 
-	Example usage at <git link here>
+	Example usage at https://github.com/juiceboxgames/DataCortexUnitySDK
 
 	The MIT License (MIT)
 
